@@ -5,7 +5,7 @@ Authentication use JWT in nodejs and express example
 - npm install
 - nom start
 
-## cURL 
+## Test 
 curl -X POST -H 'Content-Type: application/json' -d '{"username":"valid_user","password":"password"}
 ' http://localhost:9090/ext/auth
 
